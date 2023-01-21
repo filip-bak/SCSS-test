@@ -1,0 +1,10 @@
+$red: lightpink;
+$p-2: 5em;
+
+body {
+  background: $red;
+  margin-left: 200px;
+}
+div {
+  padding-inline-start: $p-2;
+}
