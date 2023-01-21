@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sourceRoot": "",
+  "sources": [
+    "../../src/scss/main.scss"
+  ],
+  "names": [],
+  "mappings": "AAGA;EACE,YAJI;EAKJ;;;AAEF;EACE,sBAPI",
+  "file": "main.css"
+}
