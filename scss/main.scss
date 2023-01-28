@@ -2,6 +2,7 @@ $pink: lightpink;
 $p-5: 5em;
 
 body {
+  display: inline-block;
   background: $pink;
   margin-left: 200px;
 }
@@ -9,6 +10,7 @@ div {
   padding-inline-start: $p-5;
 }
 .block {
-  margin: 0;
+  margin: 30px;
+  padding: 30px;
 }
 // abc
